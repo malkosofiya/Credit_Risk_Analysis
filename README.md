@@ -40,4 +40,8 @@ Balanced accuracy score increased to 78.8% as well as precision for high risk lo
 
 Overall, the model performed better than the others with an accuracy of 92.5% and a high-risk prediction of 7%. The f1 score is alo higher when compared at an average of 97%.
 
-<img width="791" alt="Screen Shot 2022-12-05 at 10 04 19 PM" src="https://user-images.githubusercontent.com/110862261/205811663-bf4afbc2-8b47-4730-83da-26a7ee4fe23e.png">
+<img width="828" alt="Screen Shot 2022-12-05 at 10 13 02 PM" src="https://user-images.githubusercontent.com/110862261/205811756-d168219e-fc90-40a3-a07e-40d8f3ecb604.png">
+
+## Summary
+
+In conclusion, the Easy Ensemble AdaBoost Classifier outperformed the other models with an accuracy score of 92.5% while the other models were below 80%. The high-risk prediction still remained low within all the models therefore further adjustments may be required to successfully predict credit risk to loaners. 
